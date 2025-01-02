@@ -2,11 +2,12 @@
 really simple guessing game made in rust<br>
 
 ## how to play
-just
+if it's first time, do
 ```cmd
 cargo build
 ```
-or
+<br>
+if not,
 ```cmd
 cargo run
 ```
